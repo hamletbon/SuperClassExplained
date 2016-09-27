@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=startHeight\ startCadence\ startSpeed\ startGear
+comment0.target=MountainBike(int,\ int,\ int,\ int)
+comment1.params=newValue
+comment1.target=void\ setHeight(int)
+numComments=2
