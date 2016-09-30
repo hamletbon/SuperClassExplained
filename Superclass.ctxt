@@ -1,4 +1,8 @@
 #BlueJ class context
 comment0.params=
-comment0.target=void\ printMethod()
-numComments=1
+comment0.target=int\ getAVariable()
+comment1.params=aVal
+comment1.target=void\ setAVariable(int)
+comment2.params=
+comment2.target=void\ printMethod()
+numComments=3
